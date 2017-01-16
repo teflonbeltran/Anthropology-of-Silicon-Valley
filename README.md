@@ -1,5 +1,5 @@
 # Anthropology-of-Silicon-Valley
-Syllabus for "Anthropology of Silicon Valley(s)" course at U.C. Berkeley
+Syllabus for "Anthropology of Silicon Valley(s)" course 
 
 You can use pull requests to make suggestions to any section of the syllabus.
 
