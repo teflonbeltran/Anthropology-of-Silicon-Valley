@@ -1,12 +1,9 @@
 ## Assignments and Grading
 
-Paper 1 (3 pages. Diagnostic) 10%
-
-Paper 2 (6 pages) 20%
-
-Paper 3 (10 pages) 30%
-
-Weekly responses (14 pages) and class participation 			40%
+Paper 1 (3 pages. Diagnostic)   10%  
+Paper 2 (6 pages)               20%  
+Paper 3 (10 pages)              30%    
+Weekly responses (14 pages)   and class participation 			  40%
 
 ###Papers:
 
