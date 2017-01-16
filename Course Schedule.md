@@ -129,7 +129,10 @@ Miyazaki, Hiro. 2006. Economy of Dreams: Hope in Global Capitalism and Its Criti
 ###Week 14: 4/17 – 4/23
 **Tu:**  
 *	Ong, Aihwa. 1999. Flexible Citizenship: The Cultural Logics of Transnationality. Durham: Duke University Press. Intro (1-28)  
-*	Hoffman, Lisa, Monica DeHart and Stephen J. Collier. 2006. Notes on the Anthropology of Neoliberalism. Anthropology News, September 2006, pp. 9-10.  
+*	Hoffman, Lisa, Monica DeHart and Stephen J. Collier. 2006. Notes on the Anthropology of Neoliberalism. Anthropology News, September 2006, pp. 9-10.
+
+*Related Readings:*  
+Frost, Catherine. 2006. Internet Galaxy Meets Postnational Constellation: Prospects for Political Solidarity After the Internet. Informaation Society 22(1):45-49.
 
 **Thu:**  
 Barney, Daren, et al. 2016. The Participatory Condition in the Digital Age. Minneapolis: University of Minnesota Press.   
