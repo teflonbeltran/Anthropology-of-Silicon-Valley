@@ -1,3 +1,5 @@
+##Course Description
+
 The Silicon Valley is frequently championed as a model for technological innovation, 
 where high revenue generation and disruptive technologies are attributed to a culture of 
 competitive collaboration, lean methodologies, and colorblind meritocracy. At the same
