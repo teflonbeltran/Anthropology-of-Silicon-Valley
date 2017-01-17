@@ -1,6 +1,8 @@
 # Course Schedule
 
-##I. Historic, Economic, and Cultural Roots
+##I. Historic, Economic, and Cultural Roots  
+Classic texts on the historical underpinnings of the valley of gold/fruit/mercury/silicon; the military and “counter-cultural” origins of high tech development; ways in which other countries have attempted to replicate (or integrate into) the Silicon Valley. We explore ethnographies that bring us into the different worlds that coexist in the region and end with Bourdieu to discuss how we might use a theoretical framework (e.g. one based on cultural capital and fields) to ground an analysis of complex social phenomena.
+
 
 ###Week 1: 1/16 – 1/22  
 **Tu:** 
@@ -48,7 +50,9 @@ Pellow, David Naguib, and Lisa Sun-Hee Park. 2002. The Silicon Valley of Dreams
 
 **PAPER 2 ASSIGNED**
 
-##II. Classic and Emerging Methodologies
+##II. Classic and Emerging Methodologies  
+We discuss ethnographic fieldwork. How do we follow people/objects/ideas/concepts, or a “culture”? How have other researchers proposed we study online/offline activity? What are some ways anthropologists have studied global processes or taken on projects where they are engaged as activists?
+
 
 ###Week 5: 2/13 – 2/19
 **Tu:**
@@ -88,7 +92,9 @@ Urry, John. 2007. Mobilities. Malden: Politity Press.
 **Thu:**
 *	Dávila, Arlene. 2001. Latinos, Inc.: The Marketing and Making of a People. Berkeley: University of California Press. Ch. 6 (181-215). EBRARY: http://site.ebrary.com/lib/berkeley/detail.action?docID=10590392  
 
-##III. Ethnographic Encounters
+##III. Ethnographic Encounters  
+We dive deeper into complete ethnographies that have attempted to investigate themes related to Silicon Valley(s): global forms, hacking, tech development in Latin America. Ethnographies from New York to Berlin give us examples of financial and technological development without losing sight of the politics of race, gender, class, and space.
+
 
 ###Week 9: 3/13 – 3/19 
 **Tu-Thu:**  
@@ -115,7 +121,9 @@ Miyazaki, Hiro. 2006. Economy of Dreams: Hope in Global Capitalism and Its Criti
 *	Amrute, Sareeta. 2016. Encoding Race, Encoding Class: Indian IT Workers in Berlin. Durham: Duke University Press. Intro (1-26), Ch. 1 (27-53)  
 
 
-##IV. New Collectivities; New Subjectivities
+##IV. New Collectivities; New Subjectivities  
+We explore new directions and possibilities for research related to hacking and tech entrepreneurship. How do subjects align themselves with “risk” and flexible networks? Are “recursive publics” revolutionary and can they provide for new ways to organize and form groups? Or are they just new ways to replicate old hierarchies and processes of exploitation?
+
 
 ###Week 13: 4/10 – 4/16
 **Tu:**  
