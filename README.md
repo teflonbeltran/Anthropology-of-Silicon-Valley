@@ -1,14 +1,14 @@
 # Anthropology-of-Silicon-Valley
 Syllabus for "Anthropology of Silicon Valley(s)" course
 
-[Course Description](Course Description.md)
-[Principal Texts](Principal Texts.md)
-[Plan](Plan.md)
-[Learning Objectives](Learning Objectives.md)
-[Assignments and Grading](Assignments and Grading.md)
-[Course Policies](Course Policies.md)
-[Course Schedule](Course Schedule.md)
-[Important Dates](Important Dates.md)
+[Course Description](Course Description.md)  
+[Principal Texts](Principal Texts.md)  
+[Plan](Plan.md)  
+[Learning Objectives](Learning Objectives.md)  
+[Assignments and Grading](Assignments and Grading.md)  
+[Course Policies](Course Policies.md)  
+[Course Schedule](Course Schedule.md)  
+[Important Dates](Important Dates.md)  
 
 You can create pull requests to submit suggested changes to any section of the syllabus.
 
