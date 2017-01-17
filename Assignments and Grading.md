@@ -14,7 +14,7 @@ Our basic formatting reference for the course will be the Modern Language Associ
 Paper 3 will be an extended and substantially revised version of Paper 2 incorporating original research. You must consult with the instructor in office hours before attempting the revision and come up with a revision plan. 
 
 ###Weekly Responses:
-These assignments are designed to develop your writing and critical thinking skills and are intended for you to prepare for and participate in class. Each week, you will be required to send a 1 page reaction paper to one of the assigned texts via email to instructor. Responses must be posted by 9am the day of class. 
+These assignments are designed to develop your writing and critical thinking skills and are intended for you to prepare for and participate in class. Each week, you will be required to send a 1 page reaction paper to one of the assigned texts via email to instructor. Responses must be submitted by 9am the day of class. 
 
 The quality of your writing is expected to get progressively better; you will be asked to re-submit your response if this is not the case.
 
