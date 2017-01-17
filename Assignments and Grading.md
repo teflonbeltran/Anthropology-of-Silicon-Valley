@@ -11,7 +11,7 @@ Unless otherwise noted, I will only accept paper copies of assignments. Papers a
 Our basic formatting reference for the course will be the Modern Language Association (MLA) Formatting & Style guidelines. While we may explore other formatting and style references, please assume that your papers need to adhere to MLA guidelines, which include (but are not limited to) 1” margins on all sides, 12-point font, double-spacing of all text, page numbers, and a header on the left corner of the first page that includes your name, my name, the course, and date.
 
 ###Final Paper:
-Paper 3 will be an extended and substantially revised version of Paper 2 incorporating original research. You must consult with the instructor in office hours before attempting the revision and come up with a revision plan. Revisions will be accepted up to the fifteenth week of the semester. 
+Paper 3 will be an extended and substantially revised version of Paper 2 incorporating original research. You must consult with the instructor in office hours before attempting the revision and come up with a revision plan. 
 
 ###Weekly Responses:
 These assignments are designed to develop your writing and critical thinking skills and are intended for you to prepare for and participate in class. Each week, you will be required to send a 1 page reaction paper to one of the assigned texts via email to instructor. Responses must be posted by 9am the day of class. 
