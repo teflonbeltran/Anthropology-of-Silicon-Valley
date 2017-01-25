@@ -38,8 +38,8 @@ Pellow, David Naguib, and Lisa Sun-Hee Park. 2002. The Silicon Valley of Dreams
 *OR*  
 * Shankar, Shalini. 2008. Desi Land: Teen Culture, Class, and Success in Silicon Valley. Durham: Duke University Press. Intro (1-24), Ch. 6 (142-166)  
 
-**Thu:**  
-*Cornford, Daniel. 1999. "We all live more like brutes than humans": Labor and Capital in the Gold Rush. California History 77:4, pg. 78-99. http://publishing.cdlib.org/ucpressebooks/view?docId=ft758007r3&chunk.id=d0e3899&toc.depth=1&toc.id=d0e3899&brand=ucpress 
+**Thu:**   
+* Cornford, Daniel. 1999. "We all live more like brutes than humans": Labor and Capital in the Gold Rush. California History 77:4, pg. 78-99. http://publishing.cdlib.org/ucpressebooks/view?docId=ft758007r3&chunk.id=d0e3899&toc.depth=1&toc.id=d0e3899&brand=ucpress 
 
 ###Week 4: 2/6 – 2/12
 **Tu:**
