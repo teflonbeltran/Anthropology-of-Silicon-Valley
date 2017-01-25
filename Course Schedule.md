@@ -33,11 +33,13 @@ Stuart, Leslie W. 2000. The Biggest Angel of Them All: The Military and the Maki
 Pellow, David Naguib, and Lisa Sun-Hee Park. 2002. The Silicon Valley of Dreams: Environmental Injustice, Immigrant Workers, and the High-Tech Global Economy. New York: NYU Press.  
 
 ###Week 3: 1/30 – 2/5
-**Tu:**
+**Tu:**  
+* Ramirez, Renya. 2007. Native Hubs: Culture, Community, and Belonging in Silicon Valley and Beyond. Durham: Duke University Press. Intro (1-26), Ch. 7 (171-198)  
+*OR*  
 * Shankar, Shalini. 2008. Desi Land: Teen Culture, Class, and Success in Silicon Valley. Durham: Duke University Press. Intro (1-24), Ch. 6 (142-166)  
 
-**Thu:**
-* Ramirez, Renya. 2007. Native Hubs: Culture, Community, and Belonging in Silicon Valley and Beyond. Durham: Duke University Press. Intro (1-26), Ch. 7 (171-198)  
+**Thu:**  
+*Cornford, Daniel. 1999. "We all live more like brutes than humans": Labor and Capital in the Gold Rush. California History 77:4, pg. 78-99. http://publishing.cdlib.org/ucpressebooks/view?docId=ft758007r3&chunk.id=d0e3899&toc.depth=1&toc.id=d0e3899&brand=ucpress 
 
 ###Week 4: 2/6 – 2/12
 **Tu:**
@@ -61,7 +63,7 @@ We discuss ethnographic fieldwork. How do we follow people/objects/ideas/concept
 * Marcus, George E. 1995. Ethnography in/of the World System: The Emergence of Multi- sited Ethnography. Annual Review of Anthropology 24:95-117.
 * Boellstorff, Tom, Bonnie Nardie, Cecilia Pearce, and T. L. Taylor. 2012. Ethnography and Virtual Worlds: A Handbook of Method. Princeton University Press. Ch. 2 (13-28)
 
-Related Readings:  
+*Related Readings:*  
 Urry, John. 2007. Mobilities. Malden: Politity Press. 
 
 **Thu:**
