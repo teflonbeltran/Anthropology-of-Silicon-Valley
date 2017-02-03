@@ -21,7 +21,10 @@ Saxenian, AnnaLee. 1996. Regional Advantage: Culture and Competition in Silicon 
 **Tu:**  
 *	Turner, Fred. 2006. From Counterculture to Cyberculture. Stewart Brand, the Whole
 	Earth Network, and the Rise of Digital Utopianism. Chicago: The University of 
-	Chicago Press. Intro + Ch. 1 (1-40)
+	Chicago Press. Intro + Ch. 1 (1-40)  
+	
+*Related Readings:*    
+Turner, F. 2010. ‘Burning Man at Google: A Cultural Infrastructure for New Media Production.’ New Media & Society, 11(1-2):145-66.  
 
 **DIAGNOSTIC PAPER DUE**  
 
@@ -42,24 +45,29 @@ Pellow, David Naguib, and Lisa Sun-Hee Park. 2002. The Silicon Valley of Dreams
 * Cornford, Daniel. 1999. "We all live more like brutes than humans": Labor and Capital in the Gold Rush. California History 77:4, pg. 78-99. http://publishing.cdlib.org/ucpressebooks/view?docId=ft758007r3&chunk.id=d0e3899&toc.depth=1&toc.id=d0e3899&brand=ucpress 
 
 ###Week 4: 2/6 – 2/12
-**Tu:**
-* Turner, F. 2010. ‘Burning Man at Google: A Cultural Infrastructure for New Media Production.’ New Media & Society, 11(1-2):145-66.  
+**Tu and Thu**
+
+* Bourdieu, Pierre. 1983. The Field of Cultural Production, Or: The Economic World Reversed. Poetics 12: 311-356.   
+* Hanks, William F. 2005. Pierre Bordieu and the Practices of Language. Annual Review of Anthropology 34:67-83. (Especially section on "Habitus" and “Field”) 
 
 We will be visiting the Anthropology Library near the end of class. Anthropology Librarian Celia Emmelhainz will give us a presentation on how to use library resources effectively.
 
-**Thu:**
-
-* Bourdieu, Pierre. 1983. The Field of Cultural Production, Or: The Economic World Reversed. Poetics 12: 311-356.   
-* Hanks, William F. 2005. Pierre Bordieu and the Practices of Language. Annual Review of Anthropology 34:67-83. (Especially section on “Field”)  
-
 **PAPER 2 ASSIGNED**
+
+###Week 5: 2/13 – 2/19  
+**Tu and Thu**
+
+* 1990 [1978]. History of Sexuality: Volume 1: An Introduction. Robert Huley, trans. New York: Vintage Books. p. 92-102 "Method"  
+* 1997[1976]. Society Must be Defended: Lectures at the College de France, 1975-76. New York: Picador. p.23-41 "14 January 1976"
+
+
 
 ##II. Classic and Emerging Methodologies  
 We discuss ethnographic fieldwork. How do we follow people/objects/ideas/concepts, or a “culture”? How have other researchers proposed we study online/offline activity? What are some ways anthropologists have studied global processes or taken on projects where they are engaged as activists?
 
-
-###Week 5: 2/13 – 2/19
-**Tu:**
+###Week 6: 2/20 – 2/26
+**Tu:**  
+**Tu and Thu**
 * Marcus, George E. 1995. Ethnography in/of the World System: The Emergence of Multi- sited Ethnography. Annual Review of Anthropology 24:95-117.
 * Boellstorff, Tom, Bonnie Nardie, Cecilia Pearce, and T. L. Taylor. 2012. Ethnography and Virtual Worlds: A Handbook of Method. Princeton University Press. Ch. 2 (13-28)
 
@@ -68,14 +76,6 @@ Urry, John. 2007. Mobilities. Malden: Politity Press.
 
 **Thu:**
 * Spitulnik, Debra. 2002. Mobile Machines and Fluid Audiences: Rethinking Reception through Zambian Radio Culture. In Media Worlds: Anthropology on New Terrain, Ginsburg, Faye D., Lila Abu-Lubhod, and Brian Larkin, eds. Berkeley: University of California Press. Pg. 337-354.
-
-###Week 6: 2/20 – 2/26
-**Tu:**  
-*	Gershon, Ilana. 2010. The Breakup 2.0: Disconnecting over New Media. Ithaca: Cornell University Press. Intro (1-16), Ch. 2 (50-90). EBRARY: http://site.ebrary.com/lib/berkeley/detail.action?docID=10457612  
-*	Chaudhry, Irfan. 2015. #Hastagging hate: Using Twitter to track racism online.” First Monday 20 no. 2: http://firstmonday.org/ojs/index.php/fm/article/view/5450  
-
-**Thu:**
-*	Poggiali, Lisa. 2016. Seeing (from) Digital Peripheries: Technology and Transparency in Kenya’s Silicon Savannah.  Cultural Anthropology 31(3): 387-411.  
 
 **PAPER 2 DUE**
 ###Week 7: 2/27 – 3/5
@@ -160,7 +160,12 @@ Barney, Daren, et al. 2016. The Participatory Condition in the Digital Age. Minn
    
 
 ###Week 16: 5/1 – 5/7
-**Tu-Thu**
+**Tu**
+*	Gershon, Ilana. 2010. The Breakup 2.0: Disconnecting over New Media. Ithaca: Cornell University Press. Intro (1-16), Ch. 2 (50-90). EBRARY: http://site.ebrary.com/lib/berkeley/detail.action?docID=10457612  
+*	Chaudhry, Irfan. 2015. #Hastagging hate: Using Twitter to track racism online.” First Monday 20 no. 2: http://firstmonday.org/ojs/index.php/fm/article/view/5450  
+
+**Thu:**
+*	Poggiali, Lisa. 2016. Seeing (from) Digital Peripheries: Technology and Transparency in Kenya’s Silicon Savannah.  Cultural Anthropology 31(3): 387-411.  
 	Review
 	Weekly response: Find Silicon Valley object (text, technology, idea, etc.) and 	post an analysis
 
