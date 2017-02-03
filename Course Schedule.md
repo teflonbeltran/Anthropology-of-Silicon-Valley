@@ -50,7 +50,7 @@ Pellow, David Naguib, and Lisa Sun-Hee Park. 2002. The Silicon Valley of Dreams
 * Bourdieu, Pierre. 1983. The Field of Cultural Production, Or: The Economic World Reversed. Poetics 12: 311-356.   
 * Hanks, William F. 2005. Pierre Bordieu and the Practices of Language. Annual Review of Anthropology 34:67-83. (Especially section on "Habitus" and “Field”) 
 
-We will be visiting the Anthropology Library near the end of class. Anthropology Librarian Celia Emmelhainz will give us a presentation on how to use library resources effectively.
+We will be visiting the Anthropology Library at the end of class. Anthropology Librarian Celia Emmelhainz will give us a presentation on how to use library resources effectively.
 
 **PAPER 2 ASSIGNED**
 
