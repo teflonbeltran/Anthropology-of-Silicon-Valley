@@ -67,7 +67,6 @@ We discuss ethnographic fieldwork. How do we follow people/objects/ideas/concept
 
 ###Week 6: 2/20 – 2/26
 **Tu:**  
-**Tu and Thu**
 * Marcus, George E. 1995. Ethnography in/of the World System: The Emergence of Multi- sited Ethnography. Annual Review of Anthropology 24:95-117.
 * Boellstorff, Tom, Bonnie Nardie, Cecilia Pearce, and T. L. Taylor. 2012. Ethnography and Virtual Worlds: A Handbook of Method. Princeton University Press. Ch. 2 (13-28)
 
