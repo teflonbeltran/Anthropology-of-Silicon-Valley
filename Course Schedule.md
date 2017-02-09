@@ -168,6 +168,8 @@ Barney, Daren, et al. 2016. The Participatory Condition in the Digital Age. Minn
 	Review
 	Weekly response: Find Silicon Valley object (text, technology, idea, etc.) and 	post an analysis
 
+*Related Readings*
+O'Mara, Margaret. 2011. Silicon Valleys. Boom: Journal of California. https://boomcalifornia.com/2011/06/16/silicon-valleys/  
 
 **MAY 12: FINAL RESEARCH PAPER DUE**
 
