@@ -101,18 +101,11 @@ We dive deeper into complete ethnographies that have attempted to investigate th
 
 ###Week 9: 3/13 – 3/19 
 **Tu-Thu:**  
-*	Chan, Anita Say. 2013. Networking Peripheries: Technological Futures and the Myth 
-	of Digital Universalism. Cambridge: The MIT Press. Ch. 6 (173-195), Conclusion (197-210)
-
-###Week 10: 3/20 – 3/26
-**Tu-Thu:**
 *	Coleman, E. Gabriella. 2013. Coding Freedom: The Ethics and Aesthetics of Hacking. Princeton: University of Princeton Press. Ch. 1 (25-60), Ch. 3 (93-122)  
 
 
-###Week 11: 3/27 – 4/2  
-**SPRING BREAK**
+###Week 10: 3/20 – 3/26
 
-###Week 12: 4/3 – 4/9   
 **Tu:**
 *	Ho, Karen. 2009. Liquidated: An Ethnography of Wall Street. Durham: Duke University Press. Ch. 1 (39-72), Ch. 6 (249-294) 
   
@@ -121,7 +114,19 @@ Zaloom, Caitlin. 2006. Out of the Pits: Traders and Technology from Chicago to L
 Miyazaki, Hiro. 2006. Economy of Dreams: Hope in Global Capitalism and Its Critiques. Cultural Anthropology 21(2):147-172.  
 
 **Thu:**
-*	Amrute, Sareeta. 2016. Encoding Race, Encoding Class: Indian IT Workers in Berlin. Durham: Duke University Press. Intro (1-26), Ch. 1 (27-53)  
+*	Chan, Anita Say. 2013. Networking Peripheries: Technological Futures and the Myth 
+	of Digital Universalism. Cambridge: The MIT Press. Ch. 6 (173-195), Conclusion (197-210)  
+
+
+###Week 11: 3/27 – 4/2  
+**SPRING BREAK**
+
+###Week 12: 4/3 – 4/9   
+**Tu:**
+*	Guest Lecturer/Speaker: Nicole Sanchez, Vice President of Social Impact at GitHub  
+
+**Thu:**
+*	Amrute, Sareeta. 2016. Encoding Race, Encoding Class: Indian IT Workers in Berlin. Durham: Duke University Press. Intro (1-26), Ch. 1 (27-53)    
 
 
 ##IV. New Collectivities; New Subjectivities  
@@ -168,7 +173,7 @@ Barney, Daren, et al. 2016. The Participatory Condition in the Digital Age. Minn
 	Review
 	Weekly response: Find Silicon Valley object (text, technology, idea, etc.) and 	post an analysis
 
-*Related Readings*
+*Related Readings*  
 O'Mara, Margaret. 2011. Silicon Valleys. Boom: Journal of California. https://boomcalifornia.com/2011/06/16/silicon-valleys/  
 
 **MAY 12: FINAL RESEARCH PAPER DUE**
