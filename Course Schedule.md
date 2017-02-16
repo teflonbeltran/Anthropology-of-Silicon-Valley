@@ -68,29 +68,33 @@ We discuss ethnographic fieldwork. How do we follow people/objects/ideas/concept
 ###Week 6: 2/20 – 2/26
 **Tu:**  
 * Marcus, George E. 1995. Ethnography in/of the World System: The Emergence of Multi- sited Ethnography. Annual Review of Anthropology 24:95-117.
+
+**Thu:** 
 * Boellstorff, Tom, Bonnie Nardie, Cecilia Pearce, and T. L. Taylor. 2012. Ethnography and Virtual Worlds: A Handbook of Method. Princeton University Press. Ch. 2 (13-28)
 
 *Related Readings:*  
 Urry, John. 2007. Mobilities. Malden: Politity Press. 
 
-**Thu:**
+**PAPER 2 DUE**  
+
+###Week 7: 2/27 – 3/5
+
+**Tu:**
 * Spitulnik, Debra. 2002. Mobile Machines and Fluid Audiences: Rethinking Reception through Zambian Radio Culture. In Media Worlds: Anthropology on New Terrain, Ginsburg, Faye D., Lila Abu-Lubhod, and Brian Larkin, eds. Berkeley: University of California Press. Pg. 337-354.
 
-**PAPER 2 DUE**
-###Week 7: 2/27 – 3/5
-**Tu:**  
+**Thu:**  
 *	Latour, Bruno. 1988. Science in Action: How to Follow Scientists and Engineers Through Society. Cambridge: Harvard University Press. Intro (1-17), Part B (30-62)  
-
-**Thu:**
-*	Collier, Stephen and Aihwa Ong. 2005. Global Assemblages, Anthropological Problems. In Global Assemblages: Technology, Politics, and Ethics as Anthropological Problems, AIhwa Ong and Stephen Collier, eds., pp. 3-21. Oxford: Blackwell Publishing.  
-*	Marcus, George E. and Erkan Saka. 2006. Assemblage. Theory, Culture & Society. 23 (2-3):101-109.  
 
 
 **WEEKS 8-10: INDIVIDUAL MEETINGS TO DISCUSS PLAN FOR FINAL PAPER**
 
 ###Week 8: 3/6 – 3/12
 **Tu:**  
-*	Tsing, Anna. 2000. The Global Situation. Current Anthropology (15)3:327-360.  
+*	Tsing, Anna. 2000. The Global Situation. Current Anthropology (15)3:327-360. 
+
+*Related Readings:*  
+*	Collier, Stephen and Aihwa Ong. 2005. Global Assemblages, Anthropological Problems. In Global Assemblages: Technology, Politics, and Ethics as Anthropological Problems, AIhwa Ong and Stephen Collier, eds., pp. 3-21. Oxford: Blackwell Publishing.  
+*	Marcus, George E. and Erkan Saka. 2006. Assemblage. Theory, Culture & Society. 23 (2-3):101-109.  
 
 **Thu:**
 *	Dávila, Arlene. 2001. Latinos, Inc.: The Marketing and Making of a People. Berkeley: University of California Press. Ch. 6 (181-215). EBRARY: http://site.ebrary.com/lib/berkeley/detail.action?docID=10590392  
