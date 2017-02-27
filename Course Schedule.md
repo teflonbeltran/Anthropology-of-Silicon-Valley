@@ -90,7 +90,7 @@ Urry, John. 2007. Mobilities. Malden: Politity Press.
 
 ###Week 8: 3/6 – 3/12
 **Tu:**  
-*	Tsing, Anna. 2000. The Global Situation. Current Anthropology (15)3:327-360. 
+*	Tsing, Anna. 2000. The Global Situation. Cultural Anthropology (15)3:327-360. 
 
 *Related Readings:*  
 *	Inda, Jonathan Xavier and Renato Rosaldo. 2007. Introdution: Tracking Global Flows. In The Anthropology of Globalization: A Reader, Jonathan Xavier Inda and Renato Rosaldo, eds., p. 3-46. Oxford: Blackwell Publishing.
