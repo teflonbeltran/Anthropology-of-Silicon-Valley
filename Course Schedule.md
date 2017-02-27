@@ -93,7 +93,8 @@ Urry, John. 2007. Mobilities. Malden: Politity Press.
 *	Tsing, Anna. 2000. The Global Situation. Current Anthropology (15)3:327-360. 
 
 *Related Readings:*  
-*	Collier, Stephen and Aihwa Ong. 2005. Global Assemblages, Anthropological Problems. In Global Assemblages: Technology, Politics, and Ethics as Anthropological Problems, AIhwa Ong and Stephen Collier, eds., pp. 3-21. Oxford: Blackwell Publishing.  
+*	Inda, Jonathan Xavier and Renato Rosaldo. 2007. Introdution: Tracking Global Flows. In The Anthropology of Globalization: A Reader, Jonathan Xavier Inda and Renato Rosaldo, eds., p. 3-46. Oxford: Blackwell Publishing.
+*	Collier, Stephen and Aihwa Ong. 2005. Global Assemblages, Anthropological Problems. In Global Assemblages: Technology, Politics, and Ethics as Anthropological Problems, Aihwa Ong and Stephen Collier, eds., pp. 3-21. Oxford: Blackwell Publishing.  
 *	Marcus, George E. and Erkan Saka. 2006. Assemblage. Theory, Culture & Society. 23 (2-3):101-109.  
 
 **Thu:**
