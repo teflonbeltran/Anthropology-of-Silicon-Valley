@@ -83,7 +83,7 @@ Urry, John. 2007. Mobilities. Malden: Politity Press.
 * Spitulnik, Debra. 2002. Mobile Machines and Fluid Audiences: Rethinking Reception through Zambian Radio Culture. In Media Worlds: Anthropology on New Terrain, Ginsburg, Faye D., Lila Abu-Lubhod, and Brian Larkin, eds. Berkeley: University of California Press. Pg. 337-354.
 
 **Thu:**  
-*	Latour, Bruno. 1988. Science in Action: How to Follow Scientists and Engineers Through Society. Cambridge: Harvard University Press. Intro (1-17), Part B (30-62)  
+*	Latour, Bruno. 1988. Science in Action: How to Follow Scientists and Engineers Through Society. Cambridge: Harvard University Press. Intro (1-17), Part B and Part C (30-62)  
 
 
 **WEEKS 8-10: INDIVIDUAL MEETINGS TO DISCUSS PLAN FOR FINAL PAPER**
