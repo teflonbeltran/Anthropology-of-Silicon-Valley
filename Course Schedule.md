@@ -95,6 +95,9 @@ Continue *following* Latour
 **Thu:**
 *	Dávila, Arlene. 2001. Latinos, Inc.: The Marketing and Making of a People. Berkeley: University of California Press. Ch. 6 (181-215). EBRARY: http://site.ebrary.com/lib/berkeley/detail.action?docID=10590392  
 
+*Related Readings:*    
+[Birth of an Ecosystem: Understanding the Market for Black and Latino Tech Consumers](https://medium.com/@MoniqueWoodard/birth-of-an-ecosystem-understanding-the-market-for-black-and-latino-tech-consumers-b09f173bee63?_hsenc=p2ANqtz-98c4nPX1nmMvc9P_kctYcEGhCUP4P6bZ6DKLDGAvqUuiQOCKfB93n_rOZvw_TaJAE-zAY3HrIfxpa-wSdEQoUiUCz6qg&_hsmi=42833471#.g01gndmu3)
+
 ##III. Ethnographic Encounters  
 We dive deeper into complete ethnographies that have attempted to investigate themes related to Silicon Valley(s): global forms, hacking, tech development in Latin America. Ethnographies from New York to Berlin give us examples of financial and technological development without losing sight of the politics of race, gender, class, and space.
 
