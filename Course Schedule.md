@@ -128,10 +128,11 @@ Miyazaki, Hiro. 2006. Economy of Dreams: Hope in Global Capitalism and Its Criti
 
 ###Week 12: 4/3 – 4/9   
 **Tu:**
-*	Guest Lecturer/Speaker: Nicole Sanchez, Vice President of Social Impact at GitHub  
+*	Guest Lecturer/Speaker: Nicole Sanchez, Vice President of Social Impact at GitHub
+	Read Nicole's blog posts: https://medium.com/@nmsanchez
 
 **Thu:**
-*	Discussion of Selected Media Articles
+*	Discussion of Selected Media Articles 
   
 
 ##IV. New Collectivities; New Subjectivities  
