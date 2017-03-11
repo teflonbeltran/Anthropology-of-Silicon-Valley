@@ -162,6 +162,13 @@ We explore new directions and possibilities for research related to hacking and 
 * 	Frost, Catherine. 2006. Internet Galaxy Meets Postnational Constellation: Prospects for Political Solidarity After the Internet. Informaation Society 22(1):45-49.
 
 ###Week 15: 4/24 – 4/30
+**Tu-Thu**
+*	Irani, Lilly. 2012. Microworking the Crowd: How to turn millions of people into a CPU. LIMN Issue 2: Crowds and Clouds. http://limn.it/issue/02/  
+*	Felstiner, Alek. 2012. The Weakness of Crowds. LIMN Issue 2: Crowds and Clouds.   
+*	Kelty, Christopher M. 2012. Crowds and Clouds. LIMN Issue 2: Crowds and Clouds.  
+  
+OR  
+  
 **Tu-Thu:**  
 Barney, Daren, et al. 2016. The Participatory Condition in the Digital Age. Minneapolis: University of Minnesota Press.   
 * Paradoxes of Participation by Christina Dunbar-Hester   
@@ -170,14 +177,8 @@ Barney, Daren, et al. 2016. The Participatory Condition in the Digital Age. Minn
    
 
 ###Week 16: 5/1 – 5/7
-**Tu**
-*	Irani, Lilly. 2012. Microworking the Crowd: How to turn millions of people into a CPU. LIMN Issue 2: Crowds and Clouds. http://limn.it/issue/02/  
-*	Felstiner, Alek. 2012. The Weakness of Crowds. LIMN Issue 2: Crowds and Clouds.   
-*	Kelty, Christopher M. 2012. Crowds and Clouds. LIMN Issue 2: Crowds and Clouds.   
-
-**Thu:**
-	Review
-	Weekly response: Find Silicon Valley object (text, technology, idea, etc.) and 	post an analysis
+**RRR WEEK**
+Work on final paper. 
 
 *Related Readings*  
 *	Gershon, Ilana. 2010. The Breakup 2.0: Disconnecting over New Media. Ithaca: Cornell University Press. Intro (1-16), Ch. 2 (50-90). EBRARY: http://site.ebrary.com/lib/berkeley/detail.action?docID=10457612  
