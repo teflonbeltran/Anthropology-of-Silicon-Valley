@@ -1,10 +1,10 @@
 # Course Schedule
 
-##I. Historic, Economic, and Cultural Roots  
+## I. Historic, Economic, and Cultural Roots  
 Classic texts on the historical underpinnings of the valley of gold/fruit/mercury/silicon; the military and “counter-cultural” origins of high tech development; ways in which other countries have attempted to replicate (or integrate into) the Silicon Valley. We explore ethnographies that bring us into the different worlds that coexist in the region and end with Bourdieu to discuss how we might use a theoretical framework (e.g. one based on cultural capital and fields) to ground an analysis of complex social phenomena.
 
 
-###Week 1: 1/16 – 1/22  
+### Week 1: 1/16 – 1/22  
 **Tu:** 
 	Class Introduction
 
@@ -17,7 +17,7 @@ Classic texts on the historical underpinnings of the valley of gold/fruit/mercur
 *Related Readings:*  
 Saxenian, AnnaLee. 1996. Regional Advantage: Culture and Competition in Silicon Valley and Route 128. Cambridge: Harvard University Press. 
 
-###Week 2: 1/23 – 1/29  
+### Week 2: 1/23 – 1/29  
 **Tu:**  
 *	Turner, Fred. 2006. From Counterculture to Cyberculture. Stewart Brand, the Whole
 	Earth Network, and the Rise of Digital Utopianism. Chicago: The University of 
@@ -35,7 +35,7 @@ Turner, F. 2010. ‘Burning Man at Google: A Cultural Infrastructure for New Med
 Stuart, Leslie W. 2000. The Biggest Angel of Them All: The Military and the Making of Silicon Valley. In Understanding Silicon Valley: The Anatomy of an Entrepreneurial Region.  Martin Kennney, ed., pp. 48-70. Stanford Business Books.  
 Pellow, David Naguib, and Lisa Sun-Hee Park. 2002. The Silicon Valley of Dreams: Environmental Injustice, Immigrant Workers, and the High-Tech Global Economy. New York: NYU Press.  
 
-###Week 3: 1/30 – 2/5
+### Week 3: 1/30 – 2/5
 **Tu:**  
 * Ramirez, Renya. 2007. Native Hubs: Culture, Community, and Belonging in Silicon Valley and Beyond. Durham: Duke University Press. Intro (1-26), Ch. 7 (171-198)  
 *OR*  
@@ -44,7 +44,7 @@ Pellow, David Naguib, and Lisa Sun-Hee Park. 2002. The Silicon Valley of Dreams
 **Thu:**   
 * Cornford, Daniel. 1999. "We all live more like brutes than humans": Labor and Capital in the Gold Rush. California History 77:4, pg. 78-99. http://publishing.cdlib.org/ucpressebooks/view?docId=ft758007r3&chunk.id=d0e3899&toc.depth=1&toc.id=d0e3899&brand=ucpress 
 
-###Week 4: 2/6 – 2/12
+### Week 4: 2/6 – 2/12
 **Tu and Thu**
 
 * Bourdieu, Pierre. 1983. The Field of Cultural Production, Or: The Economic World Reversed. Poetics 12: 311-356.   
@@ -54,7 +54,7 @@ We will be visiting the Anthropology Library at the end of class. Anthropology L
 
 **PAPER 2 ASSIGNED**
 
-###Week 5: 2/13 – 2/19  
+### Week 5: 2/13 – 2/19  
 **Tu and Thu**
 
 * 1990 [1978]. History of Sexuality: Volume 1: An Introduction. Robert Huley, trans. New York: Vintage Books. p. 92-102 "Method"  
@@ -62,10 +62,10 @@ We will be visiting the Anthropology Library at the end of class. Anthropology L
 
 
 
-##II. Classic and Emerging Methodologies  
+## II. Classic and Emerging Methodologies  
 We discuss ethnographic fieldwork. How do we follow people/objects/ideas/concepts, or a “culture”? How have other researchers proposed we study online/offline activity? What are some ways anthropologists have studied global processes or taken on projects where they are engaged as activists?
 
-###Week 6: 2/20 – 2/26
+### Week 6: 2/20 – 2/26
 **Tu:**  
 * Marcus, George E. 1995. Ethnography in/of the World System: The Emergence of Multi- sited Ethnography. Annual Review of Anthropology 24:95-117.
 
@@ -77,7 +77,7 @@ Urry, John. 2007. Mobilities. Malden: Politity Press.
 
 **PAPER 2 DUE**  
 
-###Week 7: 2/27 – 3/5
+### Week 7: 2/27 – 3/5
 
 **Tu:**
 * Spitulnik, Debra. 2002. Mobile Machines and Fluid Audiences: Rethinking Reception through Zambian Radio Culture. In Media Worlds: Anthropology on New Terrain, Ginsburg, Faye D., Lila Abu-Lubhod, and Brian Larkin, eds. Berkeley: University of California Press. Pg. 337-354.
@@ -88,18 +88,18 @@ Urry, John. 2007. Mobilities. Malden: Politity Press.
 
 **WEEKS 8-10: INDIVIDUAL MEETINGS TO DISCUSS PLAN FOR FINAL PAPER**
 
-###Week 8: 3/6 – 3/12
+### Week 8: 3/6 – 3/12
 **Tu:**  
 Continue *following* Latour
 
 **Thu:**
 *	Dávila, Arlene. 2001. Latinos, Inc.: The Marketing and Making of a People. Berkeley: University of California Press. Ch. 6 (181-215). EBRARY: http://site.ebrary.com/lib/berkeley/detail.action?docID=10590392  
 
-##III. Ethnographic Encounters  
+## III. Ethnographic Encounters  
 We dive deeper into complete ethnographies that have attempted to investigate themes related to Silicon Valley(s): global forms, hacking, tech development in Latin America. Ethnographies from New York to Berlin give us examples of financial and technological development without losing sight of the politics of race, gender, class, and space.
 
 
-###Week 9: 3/13 – 3/19 
+### Week 9: 3/13 – 3/19 
 **Tu**  
 *	Coleman, E. Gabriella. 2013. Coding Freedom: The Ethics and Aesthetics of Hacking. Princeton: University of Princeton Press. Ch. 1 (25-60)
 
@@ -111,7 +111,7 @@ We dive deeper into complete ethnographies that have attempted to investigate th
 * 	Chan, Anita Say. 2013. Networking Peripheries: Technological Futures and the Myth 
 	of Digital Universalism. Cambridge: The MIT Press. Ch. 6 (173-195), Conclusion (197-210)  
 
-###Week 10: 3/20 – 3/26
+### Week 10: 3/20 – 3/26
 
 **Tu:**
 *	Ho, Karen. 2009. Liquidated: An Ethnography of Wall Street. Durham: Duke University Press. Ch. 1 (39-72)
@@ -123,10 +123,10 @@ We dive deeper into complete ethnographies that have attempted to investigate th
 Zaloom, Caitlin. 2006. Out of the Pits: Traders and Technology from Chicago to London. Chicago: University of Chicago Press.     
 Miyazaki, Hiro. 2006. Economy of Dreams: Hope in Global Capitalism and Its Critiques. Cultural Anthropology 21(2):147-172.    
 
-###Week 11: 3/27 – 4/2  
+### Week 11: 3/27 – 4/2  
 **SPRING BREAK**
 
-###Week 12: 4/3 – 4/9   
+### Week 12: 4/3 – 4/9   
 **Tu:**
 *	Guest Lecturer/Speaker: Nicole Sanchez, Vice President of Social Impact at GitHub  
 	Read Nicole's blog posts: https://medium.com/@nmsanchez  
@@ -136,11 +136,11 @@ Miyazaki, Hiro. 2006. Economy of Dreams: Hope in Global Capitalism and Its Criti
 *	Discussion of Selected Media Articles 
   
 
-##IV. New Collectivities; New Subjectivities  
+## IV. New Collectivities; New Subjectivities  
 We explore new directions and possibilities for research related to hacking and tech entrepreneurship. How do subjects align themselves with “risk” and flexible networks? Are “recursive publics” revolutionary and can they provide for new ways to organize and form groups? Or are they just new ways to replicate old hierarchies and processes of exploitation?
 
 
-###Week 13: 4/10 – 4/16
+### Week 13: 4/10 – 4/16
 **Tu:**  
 *	Amrute, Sareeta. 2016. Encoding Race, Encoding Class: Indian IT Workers in Berlin. Durham: Duke University Press. Intro (1-26), Ch. 1 (27-53)  
 
@@ -149,21 +149,21 @@ We explore new directions and possibilities for research related to hacking and 
 	Use time to conduct independent research for final paper. Post current article 	related to themes we have been discussing along with short annotation.
 
 
-###Week 14: 4/17 – 4/23
+### Week 14: 4/17 – 4/23
 **Tu:**
 *	Inda, Jonathan Xavier and Renato Rosaldo. 2007. Introdution: Tracking Global Flows. In The Anthropology of Globalization: A Reader, Jonathan Xavier Inda and Renato Rosaldo, eds., p. 3-46. Oxford: Blackwell Publishing.
 
 **Thu:**  
 *	Tsing, Anna. 2000. The Global Situation. Cultural Anthropology (15)3:327-360. 
 
-*Related Readings:*  
+*Related Readings:*    
 *	Collier, Stephen and Aihwa Ong. 2005. Global Assemblages, Anthropological Problems. In Global Assemblages: Technology, Politics, and Ethics as Anthropological Problems, Aihwa Ong and Stephen Collier, eds., pp. 3-21. Oxford: Blackwell Publishing.  
 *	Marcus, George E. and Erkan Saka. 2006. Assemblage. Theory, Culture & Society. 23 (2-3):101-109.  
 *	Ong, Aihwa. 1999. Flexible Citizenship: The Cultural Logics of Transnationality. Durham: Duke University Press. Intro (1-28)  
 *	Hoffman, Lisa, Monica DeHart and Stephen J. Collier. 2006. Notes on the Anthropology of Neoliberalism. Anthropology News, September 2006, pp. 9-10.
 * 	Frost, Catherine. 2006. Internet Galaxy Meets Postnational Constellation: Prospects for Political Solidarity After the Internet. Informaation Society 22(1):45-49.
 
-###Week 15: 4/24 – 4/30
+### Week 15: 4/24 – 4/30
 **Tu-Thu**
 *	Irani, Lilly. 2012. Microworking the Crowd: How to turn millions of people into a CPU. LIMN Issue 2: Crowds and Clouds. http://limn.it/issue/02/  
 *	Felstiner, Alek. 2012. The Weakness of Crowds. LIMN Issue 2: Crowds and Clouds.   
@@ -178,7 +178,7 @@ Barney, Daren, et al. 2016. The Participatory Condition in the Digital Age. Minn
 * Preparations for a Haunting: Notes toward an Indigenous Future 	Imaginary  by Jason Edward Lewis   
    
 
-###Week 16: 5/1 – 5/7
+### Week 16: 5/1 – 5/7
 **RRR WEEK**
 Work on final paper. 
 
