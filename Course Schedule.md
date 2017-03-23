@@ -133,7 +133,8 @@ Miyazaki, Hiro. 2006. Economy of Dreams: Hope in Global Capitalism and Its Criti
 	**Meet at CLPR Shorb House 2547 Channing Way (corner with Bowditch) [Map](https://www.google.com/maps/place/2547+Channing+Way,+Berkeley,+CA+94704/@37.867425,-122.2590385,17z/data=!3m1!4b1!4m5!3m4!1s0x80857c2e54d9e35f:0xecbde1698168534!8m2!3d37.867425!4d-122.2568498)**
 
 **Thu:**
-*	Discussion of Selected Media Articles 
+*	Discussion of Selected Media Articles:  
+	[Justice for Data Janitors](http://www.publicbooks.org/justice-for-data-janitors/)
   
 
 ## IV. New Collectivities; New Subjectivities  
