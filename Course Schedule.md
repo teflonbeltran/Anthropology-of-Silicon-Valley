@@ -134,7 +134,9 @@ Miyazaki, Hiro. 2006. Economy of Dreams: Hope in Global Capitalism and Its Criti
 
 **Thu:**
 *	Discussion of Selected Media Articles:  
+	[The Next Big Blue-Collar Job is Coding](https://www.wired.com/2017/02/programming-is-the-new-blue-collar-job/)  
 	[Justice for Data Janitors](http://www.publicbooks.org/justice-for-data-janitors/)
+	
   
 
 ## IV. New Collectivities; New Subjectivities  
@@ -151,10 +153,11 @@ We explore new directions and possibilities for research related to hacking and 
 
 
 ### Week 14: 4/17 – 4/23
-**Tu:**
-*	Inda, Jonathan Xavier and Renato Rosaldo. 2007. Introdution: Tracking Global Flows. In The Anthropology of Globalization: A Reader, Jonathan Xavier Inda and Renato Rosaldo, eds., p. 3-46. Oxford: Blackwell Publishing.
+**Tu-Thu**
+*	Inda, Jonathan Xavier and Renato Rosaldo. 2007. Introduction: Tracking Global Flows. In The Anthropology of Globalization: A Reader, Jonathan Xavier Inda and Renato Rosaldo, eds., p. 3-46. Oxford: Blackwell Publishing.
 
-**Thu:**  
+OR
+
 *	Tsing, Anna. 2000. The Global Situation. Cultural Anthropology (15)3:327-360. 
 
 *Related Readings:*    
