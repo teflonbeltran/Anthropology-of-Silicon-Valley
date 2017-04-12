@@ -151,9 +151,9 @@ We explore new directions and possibilities for research related to hacking and 
 
 
 ### Week 14: 4/17 – 4/23
-**Tu**  
+**Tu**   
 *	Amrute, Sareeta. 2016. Encoding Race, Encoding Class: Indian IT Workers in Berlin. Durham: Duke University Press. Ch. 1 (27-53)  
-**Thu**
+**Thu**  
 *	Inda, Jonathan Xavier and Renato Rosaldo. 2007. Introduction: Tracking Global Flows. In The Anthropology of Globalization: A Reader, Jonathan Xavier Inda and Renato Rosaldo, eds., p. 3-46. Oxford: Blackwell Publishing.  
 
 *Related Readings on the global:*  
@@ -182,11 +182,12 @@ Work on final paper.
 *	Poggiali, Lisa. 2016. Seeing (from) Digital Peripheries: Technology and Transparency in Kenya’s Silicon Savannah.  Cultural Anthropology 31(3): 387-411.  
 *	O'Mara, Margaret. 2011. Silicon Valleys. Boom: Journal of California. https://boomcalifornia.com/2011/06/16/silicon-valleys/
 
-* Related Readings on participation*   
-* Barney, Daren, et al. 2016. The Participatory Condition in the Digital Age. Minneapolis: University of Minnesota Press.   
-* Paradoxes of Participation by Christina Dunbar-Hester   
-* Think Outside the Boss: Cooperative Alternatives for the Post-Internet Age 	by Trebor Scholz   
-* Preparations for a Haunting: Notes toward an Indigenous Future 	Imaginary  by Jason Edward Lewis  
+*Related Readings on participation*  
+
+* Barney, Daren, et al. 2016. The Participatory Condition in the Digital Age. Minneapolis: University of Minnesota Press.     
+* Paradoxes of Participation by Christina Dunbar-Hester     
+* Think Outside the Boss: Cooperative Alternatives for the Post-Internet Age 	by Trebor Scholz     
+* Preparations for a Haunting: Notes toward an Indigenous Future 	Imaginary  by Jason Edward Lewis    
 
 **MAY 12: FINAL RESEARCH PAPER DUE**
 
