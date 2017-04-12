@@ -140,9 +140,9 @@ Miyazaki, Hiro. 2006. Economy of Dreams: Hope in Global Capitalism and Its Criti
   
 ### Week 13: 4/10 – 4/16
 **Tu:**  
-*	Amrute, Sareeta. 2016. Encoding Race, Encoding Class: Indian IT Workers in Berlin. Durham: Duke University Press. Ch. 1 (27-53)  
+*	Amrute, Sareeta. 2016. Encoding Race, Encoding Class: Indian IT Workers in Berlin. Durham: Duke University Press. Intro (1-26)  
 
-**Thu:**  
+**Thu:**    
 	NO CLASS  
 	Use time to conduct independent research for final paper. 
 
@@ -151,9 +151,10 @@ We explore new directions and possibilities for research related to hacking and 
 
 
 ### Week 14: 4/17 – 4/23
-**Tu**   
-*	Amrute, Sareeta. 2016. Encoding Race, Encoding Class: Indian IT Workers in Berlin. Durham: Duke University Press. Ch. 1 (27-53)  
-**Thu**  
+**Tu**  
+* Amrute, Sareeta. 2016. Encoding Race, Encoding Class: Indian IT Workers in Berlin. Durham: Duke University Press. Ch. 1 (27-53)  
+
+**Thu**    
 *	Inda, Jonathan Xavier and Renato Rosaldo. 2007. Introduction: Tracking Global Flows. In The Anthropology of Globalization: A Reader, Jonathan Xavier Inda and Renato Rosaldo, eds., p. 3-46. Oxford: Blackwell Publishing.  
 
 *Related Readings on the global:*  
