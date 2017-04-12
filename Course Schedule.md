@@ -140,26 +140,24 @@ Miyazaki, Hiro. 2006. Economy of Dreams: Hope in Global Capitalism and Its Criti
   
 ### Week 13: 4/10 – 4/16
 **Tu:**  
-*	Amrute, Sareeta. 2016. Encoding Race, Encoding Class: Indian IT Workers in Berlin. Durham: Duke University Press. Intro (1-26), Ch. 1 (27-53)  
+*	Amrute, Sareeta. 2016. Encoding Race, Encoding Class: Indian IT Workers in Berlin. Durham: Duke University Press. Ch. 1 (27-53)  
 
 **Thu:**  
 	NO CLASS  
-	Use time to conduct independent research for final paper. Post current article 	related to themes we have been discussing along with short annotation.
+	Use time to conduct independent research for final paper. 
 
 ## IV. New Collectivities; New Subjectivities  
 We explore new directions and possibilities for research related to hacking and tech entrepreneurship. How might we think about these practices circulating as "global" forms? How do subjects perform risk, flexibility, and participation in their corresponding social worlds? Are “recursive publics” revolutionary and can they provide for new ways to organize and form groups? Or are they just new ways to replicate old hierarchies and processes of exploitation?
 
 
 ### Week 14: 4/17 – 4/23
-**Tu-Thu**
-
+**Tu**  
+*	Amrute, Sareeta. 2016. Encoding Race, Encoding Class: Indian IT Workers in Berlin. Durham: Duke University Press. Ch. 1 (27-53)  
+**Thu**
 *	Inda, Jonathan Xavier and Renato Rosaldo. 2007. Introduction: Tracking Global Flows. In The Anthropology of Globalization: A Reader, Jonathan Xavier Inda and Renato Rosaldo, eds., p. 3-46. Oxford: Blackwell Publishing.  
 
-OR
-
-*	Tsing, Anna. 2000. The Global Situation. Cultural Anthropology (15)3:327-360. 
-
 *Related Readings on the global:*  
+*	Tsing, Anna. 2000. The Global Situation. Cultural Anthropology (15)3:327-360. 
 *	Collier, Stephen and Aihwa Ong. 2005. Global Assemblages, Anthropological Problems. In Global Assemblages: Technology, Politics, and Ethics as Anthropological Problems, Aihwa Ong and Stephen Collier, eds., pp. 3-21. Oxford: Blackwell Publishing.  
 *	Marcus, George E. and Erkan Saka. 2006. Assemblage. Theory, Culture & Society. 23 (2-3):101-109.  
 *	Ong, Aihwa. 1999. Flexible Citizenship: The Cultural Logics of Transnationality. Durham: Duke University Press. Intro (1-28)  
@@ -172,15 +170,6 @@ OR
 *	Felstiner, Alek. 2012. The Weakness of Crowds. LIMN Issue 2: Crowds and Clouds.   
 *	Kelty, Christopher M. 2012. Crowds and Clouds. LIMN Issue 2: Crowds and Clouds.  
 
-OR
-  
-**Tu-Thu:**  
-Barney, Daren, et al. 2016. The Participatory Condition in the Digital Age. Minneapolis: University of Minnesota Press.   
-* Paradoxes of Participation by Christina Dunbar-Hester   
-* Think Outside the Boss: Cooperative Alternatives for the Post-Internet Age 	by Trebor Scholz   
-* Preparations for a Haunting: Notes toward an Indigenous Future 	Imaginary  by Jason Edward Lewis   
-   
-
 ### Week 16: 5/1 – 5/7
 **RRR WEEK**
 Work on final paper. 
@@ -191,7 +180,13 @@ Work on final paper.
 
 *Related Readings on "other" Silicon Valleys* 
 *	Poggiali, Lisa. 2016. Seeing (from) Digital Peripheries: Technology and Transparency in Kenya’s Silicon Savannah.  Cultural Anthropology 31(3): 387-411.  
-*	O'Mara, Margaret. 2011. Silicon Valleys. Boom: Journal of California. https://boomcalifornia.com/2011/06/16/silicon-valleys/  
+*	O'Mara, Margaret. 2011. Silicon Valleys. Boom: Journal of California. https://boomcalifornia.com/2011/06/16/silicon-valleys/
+
+* Related Readings on participation*   
+* Barney, Daren, et al. 2016. The Participatory Condition in the Digital Age. Minneapolis: University of Minnesota Press.   
+* Paradoxes of Participation by Christina Dunbar-Hester   
+* Think Outside the Boss: Cooperative Alternatives for the Post-Internet Age 	by Trebor Scholz   
+* Preparations for a Haunting: Notes toward an Indigenous Future 	Imaginary  by Jason Edward Lewis  
 
 **MAY 12: FINAL RESEARCH PAPER DUE**
 
