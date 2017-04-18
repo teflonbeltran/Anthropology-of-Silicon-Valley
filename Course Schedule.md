@@ -73,7 +73,8 @@ We discuss ethnographic fieldwork. How do we follow people/objects/ideas/concept
 * Boellstorff, Tom, Bonnie Nardie, Cecilia Pearce, and T. L. Taylor. 2012. Ethnography and Virtual Worlds: A Handbook of Method. Princeton University Press. Ch. 2 (13-28)
 
 *Related Readings:*  
-Urry, John. 2007. Mobilities. Malden: Politity Press. 
+Briggs, Charles L. 1986. Learning how to ask: A sociolinguistic appraisal of the role of the interview in social science research. Cambridge: Cambridge University Press.  
+Urry, John. 2007. Mobilities. Malden: Politity Press.   
 
 **PAPER 2 DUE**  
 
