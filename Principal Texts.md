@@ -1,4 +1,4 @@
-##Principal Texts
+## Principal Texts
 *	Amrute, Sareeta. 2016. Encoding Race, Encoding Class: Indian IT Workers in Berlin. 
 	Durham: Duke University Press.
 *	Barney, Daren, et al. 2016. The Participatory Condition in the Digital Age. 
