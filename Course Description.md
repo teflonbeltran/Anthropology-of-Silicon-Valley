@@ -1,4 +1,4 @@
-##Course Description
+## Course Description
 
 The Silicon Valley is frequently championed as a model for technological innovation, 
 where high revenue generation and disruptive technologies are attributed to a culture of 
